@@ -38,3 +38,17 @@ h5 {
     color: red;
     text-decoration: line-through;
 }
+.specOffer {
+    color: red;
+}
+
+.purchaseBtn {
+    background-color: green;
+    color: white;
+    max-width: 3rem;
+    padding: 0.5rem;
+    text-align: center;
+}
+.purchaseBtn:hover {
+    background-color: black;
+}
